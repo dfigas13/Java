@@ -1,0 +1,3 @@
+exercises:
+    '1_Link - Autoren Website': { max_points: 2, disabled: false, grading: [{ points: 1, criterion: { de: 'Adding a li element in an appropriate place' } }, { points: 1, criterion: { de: 'Adding an a element with href="author.html" attribute in an appropriate place' } }], translations: { de: '1_Link - Autoren Website' } }
+    '2_Anker - Kapitelverzeichnis': { max_points: 2, disabled: false, grading: [{ points: 1, criterion: { de: 'Creating the following structure: ul > li > a' } }, { points: 1, criterion: { de: 'Appropriate setting of each link''s href attribute so that it directs to an appropriate section on the page' } }], translations: { de: '2_Anker - Kapitelverzeichnis' } }

@@ -1,0 +1,5 @@
+exercises:
+    1_Überschriften: { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: { de: 'Creating 3 headings: h1, h2, h3' } }, { points: 0.2, criterion: { de: 'Filling them with sample text' } }], translations: { de: 1_Überschriften } }
+    2_Textabsätze: { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: { de: 'Creating 3 paragraphs' } }, { points: 0.2, criterion: { de: 'Filling them with sample text' } }], translations: { de: 2_Textabsätze } }
+    '3_Listen ul': { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: { de: 'Creating a ul list containing three li elements' } }, { points: 0.2, criterion: { de: 'Filling li elements with sample text' } }], translations: { de: '3_Listen ul' } }
+    '4_Listen ol': { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: { de: 'Creating an ol list with three li elements' } }, { points: 0.2, criterion: { de: 'Filling the li elements with sample text' } }], translations: { de: '4_Listen ol' } }

@@ -1,0 +1,2 @@
+exercises:
+    1_Aufgaben: { max_points: 2.5, disabled: false, grading: [{ points: 1, criterion: { de: 'Resetting default list styles' } }, { points: 0.5, criterion: { de: 'Aligning elements next to each other using flex' } }, { points: 1, criterion: { de: 'Change to numeric bullets, without interfering with HTML' } }], translations: { de: 1_Aufgaben } }

@@ -1,0 +1,4 @@
+exercises:
+    '1_Bunte Kacheln': { max_points: 0, disabled: true, translations: { de: '1_Bunte Kacheln' } }
+    '2_Flexbox Defense': { max_points: 0, disabled: true, translations: { de: '2_Flexbox Defense' } }
+    3_Event-Seite: { max_points: 0, disabled: true, translations: { de: 3_Event-Seite } }

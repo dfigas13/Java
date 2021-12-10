@@ -1,0 +1,59 @@
+html,
+body {
+  border: 0;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+* {
+  padding: 20px;
+  margin: 20px 0;
+  background: rgba(0, 0, 255, 0.1);
+  border: 1px solid rgba(0, 0, 255, 0.6);
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+/* place styles here */
+/* 1 */
+div.module > h2 {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+/* 2 */
+div.module > div {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+/* 3 */
+div.module > div > h2 {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+/* 4 */
+div.module > p:nth-child(2) {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+
+/* 5 */
+div.module > p:nth-child(4) {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+/* 6 */
+div.module > p {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+ /* 7 */
+div.module > div > :first-child  {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+/* 8 */
+div.module > div > :last-child  {
+  background-color:rgb(255, 255, 0, 0.5);
+}
+
+

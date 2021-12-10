@@ -1,0 +1,3 @@
+exercises:
+    1_Farbverlauf: { max_points: 2, disabled: false, grading: [{ points: 0.5, criterion: { de: 'Setting width and height' } }, { points: 1.5, criterion: { de: 'Adding a custom gradient' } }], translations: { de: 1_Farbverlauf } }
+    2_Katze: { max_points: 3.5, disabled: false, grading: [{ points: 0.5, criterion: { de: 'Setting width and height' } }, { points: 1, criterion: { de: 'Adding an image as a background' } }, { points: 1, criterion: { de: 'Centering vertically and horizontally' } }, { points: 1, criterion: { de: 'Covering the whole element (cover)' } }], translations: { de: 2_Katze } }

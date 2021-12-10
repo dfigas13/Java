@@ -1,0 +1,55 @@
+body {
+  background: #ddd;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  color: #444;
+}
+
+.list span {
+  opacity: 0.7;
+}
+
+.list li {
+  display: flex;
+  padding: 20px;
+  border: 2px solid #ddd;
+  margin-bottom: 3px;
+  background: #fff;
+}
+
+.list div {
+  min-width: 25%;
+}
+
+.list div:first-child {
+  min-width: 15%;
+}
+
+@media (max-width: 800px) {
+  .list li {
+    flex-direction: column;
+  }
+}
+
+/* write your styles here */
+
+li[data-status="bad"] {
+  background-color: #a80e10;
+}
+
+li[data-status="medium"] {
+  background-color: #f87641;
+}
+
+li[data-status="good"] {
+  background-color: #7ec932;
+}
+
+li[data-status="ultra"] {
+  background-color: #FFC107;
+}

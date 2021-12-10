@@ -1,0 +1,35 @@
+body {
+    padding: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+p {
+    overflow: hidden;
+}
+
+img {
+    display: block;
+}
+
+/* write your styles here */
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+p.par1 > img:first-child {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+p.par2 > img:last-child {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+

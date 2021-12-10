@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Petemoss&family=Tangerine&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.menu {
+	background: #F15C5C;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+
+ul, li {
+	display: inline-block;
+}
+
+li {
+	padding: 20px;
+}
+
+li:first-child {
+	margin-left: 20px;
+}
+
+li:last-child {
+	margin-right: 20px;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: #333;
+}
+

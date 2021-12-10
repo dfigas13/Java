@@ -1,0 +1,2 @@
+exercises:
+    1_Aufgaben: { max_points: 3.5, disabled: false, grading: [{ points: 0.5, criterion: { de: 'Page header: Using display: flex;' } }, { points: 1, criterion: { de: 'Page header: Adding justify-content: space-between property;' } }, { points: 1, criterion: { de: 'Page header: Adding align-items property: center;' } }, { points: 0.5, criterion: { de: 'Menu: Using display: flex;' } }, { points: 0.5, criterion: { de: 'Articles: Using display: flex;' } }], translations: { de: 1_Aufgaben } }

@@ -1,0 +1,1 @@
+SELECT CONCAT(UPPER(SUBSTRING(name, 1,2 )), UPPER (SUBSTRING(surname, 1,2))) FROM students ORDER BY surname DESC;

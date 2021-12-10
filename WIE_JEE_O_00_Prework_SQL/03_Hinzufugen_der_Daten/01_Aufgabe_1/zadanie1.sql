@@ -1,0 +1,1 @@
+INSERT INTO `teachers`(`teacher_id`, `name`, `pay`) VALUES ('','Sheldon Cooper','2500');

@@ -1,0 +1,15 @@
+body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.rocks {
+	width: 600px;
+	height: 350px;
+	background: url(../images/rocks.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}

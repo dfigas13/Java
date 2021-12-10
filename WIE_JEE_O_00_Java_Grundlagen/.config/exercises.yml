@@ -1,0 +1,11 @@
+exercises:
+    '1_Aufgabe 1': { max_points: 0, disabled: true, translations: { de: '1_Aufgabe 1' } }
+    '2_Aufgabe 2': { max_points: 0, disabled: true, translations: { de: '2_Aufgabe 2' } }
+    '3_Aufgabe 3': { max_points: 0, disabled: true, translations: { de: '3_Aufgabe 3' } }
+    '4_Aufgabe 4': { max_points: 0, disabled: true, translations: { de: '4_Aufgabe 4' } }
+    '5_Aufgabe 5': { max_points: 0, disabled: true, translations: { de: '5_Aufgabe 5' } }
+    '6_Aufgabe 6': { max_points: 0, disabled: true, translations: { de: '6_Aufgabe 6' } }
+    '7_Aufgabe 7': { max_points: 0, disabled: true, translations: { de: '7_Aufgabe 7' } }
+    '8_Aufgabe 8': { max_points: 0, disabled: true, translations: { de: '8_Aufgabe 8' } }
+    '9_Aufgabe 9': { max_points: 0, disabled: true, translations: { de: '9_Aufgabe 9' } }
+    '10_Aufgabe 10': { max_points: 0, disabled: true, translations: { de: '10_Aufgabe 10' } }

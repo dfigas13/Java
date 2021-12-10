@@ -1,0 +1,2 @@
+exercises:
+    1_Aufgaben: { max_points: 2, disabled: false, grading: [{ points: 0.5, criterion: { de: 'The Name field is in accordance to the specification' } }, { points: 0.5, criterion: { de: 'The Email field is in accordance to the specification' } }, { points: 0.5, criterion: { de: 'The Message field is in accordance to the specification' } }, { points: 0.5, criterion: { de: 'The Button element is in accordance to the specification' } }], translations: { de: 1_Aufgaben } }

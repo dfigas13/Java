@@ -1,0 +1,3 @@
+exercises:
+    '1_Ich esse Gemüse': { max_points: 0, disabled: true, translations: { de: '1_Ich esse Gemüse' } }
+    '2_Ausflüge in Weltall': { max_points: 0, disabled: true, translations: { de: '2_Ausflüge in Weltall' } }

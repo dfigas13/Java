@@ -1,0 +1,3 @@
+exercises:
+    1_Prüfungsnote: { max_points: 2.5, disabled: false, grading: [{ points: 1.5, criterion: { de: 'Using the if ... else clause' } }, { points: 0.5, criterion: { de: 'Basing conditions on the score variable' } }, { points: 0.5, criterion: { de: 'Displaying appropriate text' } }], translations: { de: 1_Prüfungsnote } }
+    '2_Beschreibende Note': { max_points: 2.5, disabled: false, grading: [{ points: 1.5, criterion: { de: 'Using the switch statement' } }, { points: 0.5, criterion: { de: 'Setting the conditions based on grade variable' } }, { points: 0.5, criterion: { de: 'Displaying appropriate text' } }], translations: { de: '2_Beschreibende Note' } }

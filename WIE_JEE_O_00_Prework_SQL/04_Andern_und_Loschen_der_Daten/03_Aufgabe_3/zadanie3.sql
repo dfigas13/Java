@@ -1,0 +1,1 @@
+UPDATE classes SET name = 'VI A' WHERE class_id = 7;

@@ -1,0 +1,14 @@
+:root {
+	--primary--color: rgb(233, 27, 27,0.5);
+	--base--color: rgb(61, 177, 206);
+}
+
+div {
+	width: 20em;
+	height: 20em;
+	border: 0.5em solid var(--base--color);
+	background-color: var(--primary--color);
+}
+
+
+

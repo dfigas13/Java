@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/**
+  Place @font-face declarations here!
+ */
+
+@font-face {
+  font-family: 'latoregular';
+  src: url('../fonts/lato-regular-webfont.woff2') format('woff2'),
+    url('../fonts/lato-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'dm_serif_textregular';
+  src: url('../fonts/dmseriftext-regular-webfont.woff2') format('woff2'),
+       url('../fonts/dmseriftext-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+:root {
+  --h1: 3rem;
+  --h2: 2.5rem;
+  --container-width: 1000px;
+}
+
+body {
+  max-width: var(--container-width);
+  width: calc(100% - 30px);
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: orangered;
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+  font-size: var(--h1);
+}
+
+h2 {
+  font-size: var(--h2);
+  margin-top: 0;
+}
+
+section, header, article {
+  margin-bottom: 3rem;
+}
+
+.section--bottom {
+  background: #eee;
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+  font-family: 'dm_serif_textregular';
+}
+
+p {
+  font-family: 'latoregular';
+}

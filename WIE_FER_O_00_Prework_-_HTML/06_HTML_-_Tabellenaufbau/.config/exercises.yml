@@ -1,0 +1,3 @@
+exercises:
+    1_Tic-Tac-Toe: { max_points: 1, disabled: false, grading: [{ points: 1, criterion: { de: 'Creating a correct table structure' } }], translations: { de: 1_Tic-Tac-Toe } }
+    2_Kalender: { max_points: 1, disabled: false, grading: [{ points: 1, criterion: { de: 'Creating a correct table structure' } }], translations: { de: 2_Kalender } }

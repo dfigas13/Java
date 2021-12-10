@@ -1,0 +1,12 @@
+div.parent {
+	width: 500px;
+	height: 100px;
+	/* background-color:tomato; */
+	background: linear-gradient(to bottom right, hsl(204, 52%, 55%), hsl(0, 79%, 62%));
+}
+
+div.children {
+	width: 50%;
+	height: 50vh;
+	background-color: rgb(22, 116, 22);
+}

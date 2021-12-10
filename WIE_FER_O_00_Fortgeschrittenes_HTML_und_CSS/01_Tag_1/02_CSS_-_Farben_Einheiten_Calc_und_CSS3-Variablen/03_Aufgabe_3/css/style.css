@@ -1,0 +1,30 @@
+:root {
+	--primary-blue: blue;
+	--primary-red: red;
+	--primary-green: green;
+	--primary-black: black;
+}
+
+.element1, .element2, .element3 {
+	border: 10px solid var(--primary-black);
+}
+
+div.element1 {
+	width: 150px;
+	height: 150px;
+	background-color: var(--primary-red);
+}
+
+div.element2 {
+	width: 9.375em;
+	height: 9.375em;
+	background-color: var(--primary-blue);
+}
+
+div.element3 {
+	width: 9.375rem;
+	height: 9.375rem;
+	background-color: var(--primary-green);
+}
+
+

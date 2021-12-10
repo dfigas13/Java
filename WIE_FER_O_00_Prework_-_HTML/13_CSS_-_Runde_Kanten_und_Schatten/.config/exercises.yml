@@ -1,0 +1,2 @@
+exercises:
+    1_Aufgaben: { max_points: 3.5, disabled: false, grading: [{ points: 0.75, criterion: { de: 'Cards with users: Adding an appropriate shadow' } }, { points: 0.75, criterion: { de: 'Cards with users: Rounding corners' } }, { points: 1, criterion: { de: 'Avatar: Round avatars' } }, { points: 1, criterion: { de: 'Links: Styling links in accordance with the specification' } }], translations: { de: 1_Aufgaben } }

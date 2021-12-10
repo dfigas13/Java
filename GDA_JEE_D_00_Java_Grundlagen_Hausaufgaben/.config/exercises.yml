@@ -1,0 +1,8 @@
+exercises:
+    '1_Aufgabe 1': { max_points: 0, disabled: true }
+    '2_Aufgabe 2': { max_points: 0, disabled: true }
+    '3_Aufgabe 3': { max_points: 0, disabled: true }
+    '4_Aufgabe 4': { max_points: 0, disabled: true }
+    '5_Aufgabe 5': { max_points: 0, disabled: true }
+    '6_Aufgabe 6': { max_points: 0, disabled: true }
+    '7_Aufgabe 7': { max_points: 0, disabled: true }

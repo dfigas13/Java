@@ -1,0 +1,2 @@
+exercises:
+    '1_CSS - Datei und Stile': { max_points: 2, disabled: false, grading: [{ points: 1, criterion: { de: 'Attaching CSS styles to the HTML document in a proper way in the page''s head' } }, { points: 1, criterion: { de: 'Changing background color of the body to darkgoldenrod' } }], translations: { de: '1_CSS - Datei und Stile' } }
